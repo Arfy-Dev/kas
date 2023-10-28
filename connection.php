@@ -303,10 +303,23 @@ function tambahSiswaUangKas($data) {
 
 function addPengeluaran($data) {
 	global $conn;
+
+	$jml_uang_kas = mysqli_fetch_assoc(mysqli_query($conn, "SELECT sum(minggu_ke_1 + minggu_ke_2 + minggu_ke_3 + minggu_ke_4) as jml_uang_kas FROM uang_kas"));
+	$jml_uang_kas = $jml_uang_kas['jml_uang_kas'];
+
+	$jml_pengeluaran = mysqli_fetch_assoc(mysqli_query($conn, "SELECT sum(jumlah_pengeluaran) as jml_pengeluaran FROM pengeluaran"));
+	$jml_pengeluaran = $jml_pengeluaran['jml_pengeluaran'];
+
 	$id_user = htmlspecialchars($_SESSION['id_user']);
 	$jumlah_pengeluaran = htmlspecialchars($data['jumlah_pengeluaran']);
 	$keterangan = htmlspecialchars($data['keterangan']);
 	$tanggal_pengeluaran = time();
+
+	if(($jml_uang_kas - $jml_pengeluaran) - $jumlah_pengeluaran < 0){
+		setAlert("Gagal menambahkan pengeluaran!", "Jumlah pengeluaran lebih besar daripada total kas!", "error");
+     	return header("Location: pengeluaran.php");
+	}
+
 	$query = mysqli_query($conn, "INSERT INTO pengeluaran VALUES ('', '$jumlah_pengeluaran', '$keterangan', '$tanggal_pengeluaran', '$id_user')");
 	riwayatPengeluaran($id_user, "telah menambahkan pengeluaran " . $keterangan . " dengan biaya Rp. " . number_format($jumlah_pengeluaran));
   	return mysqli_affected_rows($conn);

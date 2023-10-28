@@ -66,7 +66,7 @@ if (isset($_POST['btnTambahSiswa'])) {
               <thead>
                 <tr>
                   <th>No.</th>
-                  <th>Nama Mahaiswa</th>
+                  <th>Nama Mahasiswa</th>
                   <th>Minggu ke 1</th>
                   <th>Minggu ke 2</th>
                   <th>Minggu ke 3</th>
