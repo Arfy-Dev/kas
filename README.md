@@ -57,4 +57,4 @@ Guide Book
 - Pengeditan Data Mahasiswa (https://scribehow.com/shared/Pengeditan_Data_Mahasiswa__B7vdB9odQZ-P3SbLKuah_Q)
 - Penghapusan Data Mahasiswa (https://scribehow.com/shared/Penghapusan_Data_Mahasiswa__yC_hG7ouQ8-QmLceD6mHIA)
 - Melihat Riwayat Kas (https://scribehow.com/shared/Melihat_Riwayat_Pengeluaran__KWyYj4UsS1225XgjisIwUQ)
-- Melihat Riwayat Pengeluaran
+- Melihat Riwayat Pengeluaran (https://scribehow.com/shared/Melihat_Riwayat_Pengeluaran__xcI78wwBRBqxz-tG6xeLyg)
