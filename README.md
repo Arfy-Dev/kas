@@ -51,4 +51,10 @@ Guide Book
 - Pembayaran Kas (https://scribehow.com/shared/Pembayaran_Kas__MilASVyhTsCNiufjgraKhQ)
 - Penghapusan Bulan Pembayaran (https://scribehow.com/shared/Penghapusan_Bulan_Pembayaran__qHbNbTlsQqKHkrvmsQLwYA)
 - Penambahan Data Pengeluaran (https://scribehow.com/shared/Penambahan_Transaksi_Pengeluaran__HyCuuM4MTGmNAIc5uOpXTA)
-- Pengeditan Data Pengeluaran ()
+- Pengeditan Data Pengeluaran (https://scribehow.com/shared/Pengeditan_Data_Pengeluaran__wHDO_TJtSzuf7XGTiB8kDQ)
+- Penghapusan Data Pengeluaran (https://scribehow.com/shared/Penghapusan_Data_Pengeluaran__BH9RZn8UTLiFOM7OwGdzzg)
+- Penambahan Data Mahasiswa (https://scribehow.com/shared/Adding_a_New_Student_Profile__C9KCcxEcQv-bfzg7YLKe4A)
+- Pengeditan Data Mahasiswa (https://scribehow.com/shared/Pengeditan_Data_Mahasiswa__B7vdB9odQZ-P3SbLKuah_Q)
+- Penghapusan Data Mahasiswa (https://scribehow.com/shared/Penghapusan_Data_Mahasiswa__yC_hG7ouQ8-QmLceD6mHIA)
+- Melihat Riwayat Kas (https://scribehow.com/shared/Melihat_Riwayat_Pengeluaran__KWyYj4UsS1225XgjisIwUQ)
+- Melihat Riwayat Pengeluaran
