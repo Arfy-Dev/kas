@@ -48,3 +48,4 @@ bendahara1
 
 Guide Book
 - Penambahan Bulan Pembayaran (https://scribehow.com/shared/Add_Monthly_Income_and_Weekly_Payment_Amount__RQI3AXWRTnO3pEqQhinPkQ)
+- Pembayaran Kas (https://scribehow.com/shared/Pembayaran_Kas__MilASVyhTsCNiufjgraKhQ)
