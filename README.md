@@ -49,3 +49,6 @@ bendahara1
 Guide Book
 - Penambahan Bulan Pembayaran (https://scribehow.com/shared/Add_Monthly_Income_and_Weekly_Payment_Amount__RQI3AXWRTnO3pEqQhinPkQ)
 - Pembayaran Kas (https://scribehow.com/shared/Pembayaran_Kas__MilASVyhTsCNiufjgraKhQ)
+- Penghapusan Bulan Pembayaran (https://scribehow.com/shared/Penghapusan_Bulan_Pembayaran__qHbNbTlsQqKHkrvmsQLwYA)
+- Penambahan Data Pengeluaran (https://scribehow.com/shared/Penambahan_Transaksi_Pengeluaran__HyCuuM4MTGmNAIc5uOpXTA)
+- Pengeditan Data Pengeluaran ()
